@@ -1,0 +1,6 @@
+C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\MainWindow.g.cs
+C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\App.g.cs
+C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\WpfApp1_MarkupCompile.lref
