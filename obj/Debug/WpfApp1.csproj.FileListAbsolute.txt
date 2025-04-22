@@ -1,6 +1,111 @@
-C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
-C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
-C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\MainWindow.g.cs
-C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\App.g.cs
-C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\WpfApp1_MarkupCompile.cache
-C:\Users\student\source\repos\rybalkaLopushok\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\WpfApp1.exe
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\WpfApp1.pdb
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Xpf.Accordion.v22.2.dll
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Xpf.Controls.v22.2.dll
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Xpf.Core.v22.2.dll
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Xpf.Accordion.v22.2.xml
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Xpf.Controls.v22.2.xml
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Xpf.Core.v22.2.xml
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\student\Source\Repos\lopushok78\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\MainWindow.g.cs
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\App.g.cs
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\MainWindow.baml
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1.exe.licenses
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1.exe
+C:\Users\student\Source\Repos\lopushok78\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\lopushok78\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\lopushok78\obj\Debug\App.g.cs
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\lopushok78\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\lopushok78\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\lopushok78\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Xpf.Accordion.v22.2.dll
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Xpf.Controls.v22.2.dll
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Xpf.Core.v22.2.dll
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Xpf.Accordion.v22.2.xml
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Xpf.Controls.v22.2.xml
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Xpf.Core.v22.2.xml
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\student\Desktop\lopushok78\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\student\Desktop\lopushok78\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1.exe.licenses
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\lopushok78\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\WpfApp1.exe.config
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\WpfApp1.exe
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\WpfApp1.pdb
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Data.v22.2.dll
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Mvvm.v22.2.dll
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Xpf.Accordion.v22.2.dll
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Xpf.Controls.v22.2.dll
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Xpf.Core.v22.2.dll
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Printing.v22.2.Core.dll
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Data.Desktop.v22.2.dll
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Drawing.v22.2.dll
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Pdf.v22.2.Core.dll
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Pdf.v22.2.Drawing.dll
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Data.v22.2.xml
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Mvvm.v22.2.xml
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Xpf.Accordion.v22.2.xml
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Xpf.Controls.v22.2.xml
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Xpf.Core.v22.2.xml
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Printing.v22.2.Core.xml
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Data.Desktop.v22.2.xml
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Pdf.v22.2.Core.xml
+C:\Users\student\Desktop\Новая папка (2)\bin\Debug\DevExpress.Pdf.v22.2.Drawing.xml
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1.csproj.SuggestedBindingRedirects.cache
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\MainWindow.baml
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1.g.resources
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1.csproj.GenerateResource.cache
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1.exe.licenses
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1.csproj.CoreCompileInputs.cache
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1.csproj.CopyComplete
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1.exe
+C:\Users\student\Desktop\Новая папка (2)\obj\Debug\WpfApp1.pdb
